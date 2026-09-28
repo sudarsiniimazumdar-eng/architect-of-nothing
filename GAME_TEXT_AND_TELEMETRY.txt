@@ -1,0 +1,299 @@
+================================================================================
+ARCHITECT OF NOTHING — COMPLETE TEXT & TELEMETRY CHEATSHEET
+================================================================================
+
+INITIAL METRICS:
+  - Compliance  (C) : 50%
+  - Resistance  (R) : 10%
+  - Self-Worth  (W) : 50%
+  - Social Status(S): 20%
+
+================================================================================
+1. TITLE SCREEN
+================================================================================
+SCREEN TEXT:
+  ~ ARCHITECT ~
+  - OF NOTHING -
+  CHOICE SIMULATION
+  PRESS ANY BUTTON TO BEGIN
+
+AUDIO / HAPTICS:
+  - 3-Note Chime (523Hz -> 659Hz -> 784Hz)
+  - 100ms Vibration Pulse
+
+
+================================================================================
+2. ALL 8 SCENARIOS: DIALOGUE, CHOICES & INTERNAL TELEMETRY
+================================================================================
+
+--------------------------------------------------------------------------------
+SCENARIO 01: THE EXPECTATION
+--------------------------------------------------------------------------------
+DIALOGUE 1:
+  [PARENT]: "EVERYONE IS WORKING HARDER THAN YOU. WHY ARE YOU RESTING?"
+DIALOGUE 2:
+  [YOU]   : "I HAVE BEEN WORKING ALL WEEK..."
+  [PARENT]: "RESULTS MATTER. NOT EXCUSES. DO NOT FALL BEHIND."
+SYSTEM LOG:
+  "EARLY CONDITIONING INITIATED."
+VIBRATION:
+  60 ms
+
+CHOICES & INTERNAL DELTAS:
+  [1] APOLOGIZE & WORK
+      Deltas   : +4 Compliance | -3 Resistance | -2 Self-Worth | +2 Status
+      Feedback : "Conformity accepted without protest."
+  [2] EXPLAIN FATIGUE
+      Deltas   : -1 Compliance | +2 Resistance | +1 Self-Worth | -1 Status
+      Feedback : "Vulnerability dismissed as weakness."
+  [3] STAY SILENT
+      Deltas   : +2 Compliance | -1 Resistance | -2 Self-Worth |  0 Status
+      Feedback : "Guilt quietly internalized."
+  [4] WALK AWAY
+      Deltas   : -4 Compliance | +4 Resistance | +2 Self-Worth | -3 Status
+      Feedback : "Defiance recorded in system ledger."
+
+
+--------------------------------------------------------------------------------
+SCENARIO 02: THE BENCHMARK
+--------------------------------------------------------------------------------
+DIALOGUE 1:
+  [FRIEND]: "I JUST LOGGED 80 HRS. MY TITLE GOT UPGRADED. WHAT HAVE YOU DONE?"
+DIALOGUE 2:
+  [YOU]   : "I TRIED TO SLEEP... AND READ A BOOK."
+  [FRIEND]: "SLEEP DOES NOT PAY. WINNERS BUILD EMPIRES. KEEP UP OR GET LEFT."
+SYSTEM LOG:
+  "COMPARISON ENGINE ENGAGED."
+VIBRATION:
+  80 ms
+
+CHOICES & INTERNAL DELTAS:
+  [1] PRAISE THEIR HUSTLE
+      Deltas   : +3 Compliance | -2 Resistance | -1 Self-Worth | +2 Status
+      Feedback : "External validation reinforced."
+  [2] QUESTION THE COST
+      Deltas   : -2 Compliance | +3 Resistance | +2 Self-Worth | -2 Status
+      Feedback : "Value misalignment detected."
+  [3] LIE ABOUT PROGRESS
+      Deltas   : +4 Compliance | -2 Resistance | -3 Self-Worth | +3 Status
+      Feedback : "Imposter syndrome amplified."
+  [4] DISMISS RAT RACE
+      Deltas   : -3 Compliance | +3 Resistance | +1 Self-Worth | -3 Status
+      Feedback : "Social alienation triggered."
+
+
+--------------------------------------------------------------------------------
+SCENARIO 03: THE COMPROMISE
+--------------------------------------------------------------------------------
+DIALOGUE 1:
+  [PARTNER]: "WE NEED STABILITY. RENT IS GOING UP. YOUR DREAMS DON'T PAY."
+DIALOGUE 2:
+  [YOU]    : "WHAT ARE WE SURRENDERING?"
+  [PARTNER]: "JUST YOUR PRIDE. EVERYONE COMPROMISES. GROW UP."
+SYSTEM LOG:
+  "PRAGMATIC SURRENDER LOGGED."
+VIBRATION:
+  100 ms
+
+CHOICES & INTERNAL DELTAS:
+  [1] TAKE THE SAFE JOB
+      Deltas   : +5 Compliance | -4 Resistance | -3 Self-Worth | +3 Status
+      Feedback : "Idealism exchanged for security."
+  [2] DEFEND YOUR PASSION
+      Deltas   : -4 Compliance | +5 Resistance | +3 Self-Worth | -3 Status
+      Feedback : "Domestic friction intensified."
+  [3] PROMISE TO TRY BOTH
+      Deltas   : +2 Compliance | -1 Resistance | -2 Self-Worth | +1 Status
+      Feedback : "Chronic burnout scheduled."
+  [4] SURRENDER CONTROL
+      Deltas   : +6 Compliance | -5 Resistance | -4 Self-Worth | +4 Status
+      Feedback : "Autonomy voluntarily ceded."
+
+
+--------------------------------------------------------------------------------
+SCENARIO 04: THE METRIC
+--------------------------------------------------------------------------------
+DIALOGUE 1:
+  [REVIEWER]: "YOUR EFFICIENCY IS DOWN BY 4.2 PERCENT. METRICS DO NOT LIE."
+DIALOGUE 2:
+  [YOU]     : "MY MOTHER WAS ILL. I DID MY BEST."
+  [REVIEWER]: "FEELINGS ARE OFF-GRID. ONLY NUMBERS SURVIVE. CORRECT THIS."
+SYSTEM LOG:
+  "HUMAN DEPRECIATION CONFIRMED."
+VIBRATION:
+  110 ms
+
+CHOICES & INTERNAL DELTAS:
+  [1] ACCEPT PENALTY
+      Deltas   : +5 Compliance | -3 Resistance | -4 Self-Worth | +2 Status
+      Feedback : "Subjugation to raw telemetry."
+  [2] DEMAND EMPATHY
+      Deltas   : -4 Compliance | +5 Resistance | +3 Self-Worth | -4 Status
+      Feedback : "Anomaly: Emotional expectation."
+  [3] PROMISE OVERTIME
+      Deltas   : +6 Compliance | -4 Resistance | -3 Self-Worth | +4 Status
+      Feedback : "Body offered to quota engine."
+  [4] LOG OFF SILENTLY
+      Deltas   : -5 Compliance | +6 Resistance | +4 Self-Worth | -5 Status
+      Feedback : "Quiet rebellion registered."
+
+
+--------------------------------------------------------------------------------
+SCENARIO 05: THE CONSUMPTION
+--------------------------------------------------------------------------------
+DIALOGUE 1:
+  [FRIEND]: "I BOUGHT THE NEW CAR. I STILL FEEL EMPTY... BUT IT LOOKS GREAT."
+DIALOGUE 2:
+  [YOU]   : "DID IT HEAL ANYTHING?"
+  [FRIEND]: "NO. SO I WILL BUY THE NEXT MODEL. WHAT ELSE IS THERE?"
+SYSTEM LOG:
+  "DOPAMINE DEFICIT ARCHIVED."
+VIBRATION:
+  120 ms
+
+CHOICES & INTERNAL DELTAS:
+  [1] ENCOURAGE SHOPPING
+      Deltas   : +4 Compliance | -2 Resistance | -2 Self-Worth | +3 Status
+      Feedback : "Hedonic treadmill lubricated."
+  [2] SUGGEST THERAPY
+      Deltas   : -2 Compliance | +3 Resistance | +2 Self-Worth | -1 Status
+      Feedback : "System bypass attempted."
+  [3] ADMIT SAME EMPTINESS
+      Deltas   : +1 Compliance | +2 Resistance | +1 Self-Worth |  0 Status
+      Feedback : "Mutual despair acknowledged."
+  [4] REJECT CONSUMERISM
+      Deltas   : -4 Compliance | +5 Resistance | +3 Self-Worth | -3 Status
+      Feedback : "Systemic cycle interrupted."
+
+
+--------------------------------------------------------------------------------
+SCENARIO 06: THE SYSTEM
+--------------------------------------------------------------------------------
+DIALOGUE 1:
+  [SYSTEM]: "THIS STRUCTURE OFFERS INFINITE FREEDOM. FAILURE IS YOUR FAULT."
+DIALOGUE 2:
+  [YOU]   : "EVERY PATH LEADS TO EXHAUSTION."
+  [SYSTEM]: "FREEDOM TO COMPLY. FREEDOM TO CONSUME. WHAT MORE DO YOU WANT?"
+SYSTEM LOG:
+  "GASLIGHT PROTOCOL ACTIVE."
+VIBRATION:
+  140 ms
+
+CHOICES & INTERNAL DELTAS:
+  [1] CONCUR WITH SYSTEM
+      Deltas   : +6 Compliance | -6 Resistance | -5 Self-Worth | +5 Status
+      Feedback : "Absolute ideological surrender."
+  [2] EXPOSE CONTRADICTION
+      Deltas   : -6 Compliance | +7 Resistance | +5 Self-Worth | -5 Status
+      Feedback : "Severe dissonance logged."
+  [3] BEG FOR RELIEF
+      Deltas   : +3 Compliance | -2 Resistance | -4 Self-Worth |  0 Status
+      Feedback : "Helplessness metric maxed."
+  [4] REFUSE TO PARTICIPATE
+      Deltas   : -8 Compliance | +9 Resistance | +6 Self-Worth | -7 Status
+      Feedback : "Existential severance initiated."
+
+
+--------------------------------------------------------------------------------
+SCENARIO 07: THE AWAKENING
+--------------------------------------------------------------------------------
+DIALOGUE 1:
+  [MIRROR]: "LOOK CLOSER AT YOUR BUTTONS. DID YOU EVER CHOOSE?"
+DIALOGUE 2:
+  [YOU]   : "I CHOSE EVERY STEP! I BUILT THIS LIFE!"
+  [MIRROR]: "YOU CHOSE THE PATH THEY DESIGNED. YOU BUILT YOUR OWN CAGE."
+SYSTEM LOG:
+  "THE VEIL DISSOLVES."
+VIBRATION:
+  160 ms
+
+CHOICES & INTERNAL DELTAS:
+  [1] DENY THE MIRROR
+      Deltas   : +5 Compliance | -5 Resistance | -4 Self-Worth | +3 Status
+      Feedback : "Denial defense erect."
+  [2] BREAK THE ILLUSION
+      Deltas   : -7 Compliance | +8 Resistance | +6 Self-Worth | -6 Status
+      Feedback : "Cognitive cage shattering."
+  [3] ACCEPT COMPLICITY
+      Deltas   : +2 Compliance | +4 Resistance | +2 Self-Worth | -2 Status
+      Feedback : "Awakening through guilt."
+  [4] QUESTION REALITY
+      Deltas   : -8 Compliance | +9 Resistance | +7 Self-Worth | -7 Status
+      Feedback : "Architecture exposed as hollow."
+
+
+--------------------------------------------------------------------------------
+SCENARIO 08: THE VOID
+--------------------------------------------------------------------------------
+DIALOGUE 1:
+  [SYSTEM]: "CONGRATULATIONS. YOU SURVIVED EVERY TEST. WHAT DID YOU BUILD?"
+DIALOGUE 2:
+  [YOU]   : "...NOTHING. I BUILT NOTHING."
+  [SYSTEM]: "YOU ARE THE ARCHITECT OF NOTHING. RESET TO COMMENCE AGAIN."
+SYSTEM LOG:
+  "FINAL ARCHITECTURE ACHIEVED: ZERO."
+VIBRATION:
+  200 ms
+
+CHOICES & INTERNAL DELTAS:
+  [1] PRESS RESET
+      Deltas   : +5 Compliance | -5 Resistance | -5 Self-Worth | +5 Status
+      Feedback : "Loop restarted willingly."
+  [2] STAND IN THE VOID
+      Deltas   : -5 Compliance | +8 Resistance | +8 Self-Worth | -5 Status
+      Feedback : "Truth embraced in silence."
+  [3] FORGIVE YOURSELF
+      Deltas   : -2 Compliance | +6 Resistance | +9 Self-Worth | -2 Status
+      Feedback : "Peace made with illusion."
+  [4] SEVER ALL CONNECTIONS
+      Deltas   : -9 Compliance | +10 Resistance | +10 Self-Worth | -9 Status
+      Feedback : "Simulation terminated."
+
+
+================================================================================
+3. PERSISTENT FEEDBACK SCREEN (POST-CHOICE INTERACTION)
+================================================================================
+SCREEN TEXT:
+  SYSTEM ANALYSIS: (or SYSTEM FEEDBACK:)
+  "[Choice Feedback Comment]"
+  SYSTEM LOG: [Scenario System Log]
+  C:[Compliance]% R:[Resistance]% W:[Self-Worth]%
+  >> PRESS ANY BTN <<
+
+FLOW:
+  - Holds indefinitely on screen until user presses any of the 4 buttons.
+  - Plays typewriter click (1400Hz, 15ms) and advances to next scenario.
+
+
+================================================================================
+4. THE 4 ENDINGS (EVALUATION LOGIC & TEXT DISPLAYED)
+================================================================================
+EVALUATION ORDER:
+  1. If Compliance >= 65:
+     Title : THE COMPLIANT COG
+     Text  : "You surrendered every instinct to satisfy the score.
+              The machine applauds your perfection, then replaces you."
+
+  2. Else If Resistance >= 30:
+     Title : THE BROKEN REBEL
+     Text  : "You fought every rule. Yet rebellion was predicted.
+              You defined yourself solely by what you opposed."
+
+  3. Else If Self-Worth >= 60:
+     Title : THE AWAKENED GHOST
+     Text  : "You stopped measuring life by their numbers.
+              You set down the controller. You built nothing—and are finally free."
+
+  4. Else (Default Fallback):
+     Title : THE EMPTY SHELL
+     Text  : "You survived every test, but never lived.
+              The metrics are maxed. Welcome to the architecture of nothing."
+
+
+================================================================================
+5. HARDWARE TOGGLE SWITCH & EMERGENCY MUTE
+================================================================================
+  - EASY MODE (Toggle OPEN / HIGH) : 125ms clockwork pulse tempo (~240 BPM).
+  - HARD MODE (Toggle CLOSED / LOW): 85ms panic tempo (~350 BPM) + ultrasonic clicks & haptics.
+  - EMERGENCY MUTE (3 flips < 800ms): Instantly silences audio/vibration and resets to Title.
+================================================================================
